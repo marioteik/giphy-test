@@ -1,0 +1,28 @@
+a.avatar.rounded-circle img, .rounded-circle {
+    border-radius: 50%!important;
+}
+
+a.avatar img {
+    width: 100%;
+    vertical-align: middle;
+    border-style: none;
+}
+
+a.avatar-sm {
+    font-size: .875rem;
+    width: 36px;
+    height: 36px;
+}
+
+a.avatar {
+    display: inline-flex;
+    color: #fff;
+    background-color: #adb5bd;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+a.avatar.rounded-circle img {
+    border-radius: 50%!important;
+}
